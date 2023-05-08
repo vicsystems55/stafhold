@@ -25,9 +25,7 @@
                                 <li>
                                     <a href="#"><i class="icon-facebook"></i></a>
                                 </li>
-                                <li>
-                                    <a href="#"><i class="icon-pinterest"></i></a>
-                                </li>
+
                                 <li>
                                     <a href="#"><i class="icon-instagram"></i></a>
                                 </li>
@@ -62,7 +60,7 @@
 
                                         </li>
 
-                                        <li class=""><a href="/blog"><span>Blog</span></a>
+                                        <li class=""><a href="/courses"><span>Training</span></a>
 
                                         </li>
 
@@ -89,11 +87,11 @@
                             </div>
                         </div>
 
-                        <div class="serach-button-style1">
+                        {{-- <div class="serach-button-style1">
                             <button type="button" class="search-toggler">
                                 <i class="icon-magnifying-glass"></i>
                             </button>
-                        </div>
+                        </div> --}}
 
                     </div>
                     <!--End Header Right-->

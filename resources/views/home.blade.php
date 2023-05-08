@@ -22,7 +22,7 @@
                                     </h2>
                                 </div>
                                 <div class="btns-box">
-                                    <a class="btn-one" href="about.html">
+                                    <a class="btn-one" href="about">
                                         <span class="txt">
                                             discover more<i class="icon-refresh arrow"></i>
                                         </span>
@@ -47,7 +47,7 @@
                                     </h2>
                                 </div>
                                 <div class="btns-box">
-                                    <a class="btn-one" href="about.html">
+                                    <a class="btn-one" href="about">
                                         <span class="txt">
                                             discover more<i class="icon-refresh arrow"></i>
                                         </span>
@@ -72,7 +72,7 @@
                                     </h2>
                                 </div>
                                 <div class="btns-box">
-                                    <a class="btn-one" href="about.html">
+                                    <a class="btn-one" href="about">
                                         <span class="txt">
                                             discover more<i class="icon-refresh arrow"></i>
                                         </span>
@@ -101,7 +101,7 @@
                                             <span class="icon-dustbin"></span>
                                         </div>
                                         <div class="text-holder">
-                                            <h3><a href="services-single-1.html">Dumpster Sizes</a></h3>
+                                            <h3><a href="services-single-1">Dumpster Sizes</a></h3>
                                             <p>There are many of passages of lorem Ipsum, but the majori have suffered
                                                 in some form.</p>
                                         </div>
@@ -114,7 +114,7 @@
                                             <span class="icon-garbage-can"></span>
                                         </div>
                                         <div class="text-holder">
-                                            <h3><a href="services-single-2.html">Waste Collection</a></h3>
+                                            <h3><a href="services-single-2">Waste Collection</a></h3>
                                             <p>There are many of passages of lorem Ipsum, but the majori have suffered
                                                 in some form.</p>
                                         </div>
@@ -127,7 +127,7 @@
                                             <span class="icon-calendar"></span>
                                         </div>
                                         <div class="text-holder">
-                                            <h3><a href="services-single-3.html">Pickup Schedule</a></h3>
+                                            <h3><a href="services-single-3">Pickup Schedule</a></h3>
                                             <p>There are many of passages of lorem Ipsum, but the majori have suffered
                                                 in some form.</p>
                                         </div>
@@ -227,60 +227,69 @@
                         <div class="sub-title">
                             <h3>Industries We Serve</h3>
                         </div>
-                        <h2>Solutions by Industry</h2>
+                        <h2>Services we provide</h2>
                     </div>
                     <div class="row">
 
                         <!--Start Single Service Style1-->
-                        <div class="col-xl-4 col-lg-4">
+                        <div class="col-xl-3 col-lg-3">
                             <div class="single-service-style2">
                                 <div class="img-holder">
                                     <img src="assets/images/services/service-v1-1.jpg" alt="">
-                                    <div class="icon-box">
-                                        <span class="icon-store"></span>
-                                    </div>
+
                                 </div>
-                                <div class="text-holder text-center">
-                                    <h3><a href="industries-details.html">Grocery Stores</a></h3>
-                                    <p>Sed quia magni dolores eos qui ratione voluptatem sequi nesciunt eque porro.</p>
+                                <div class="text-holder text-center p-3">
+                                    <h3><a href="industries-details">Training</a></h3>
+                                    <p>Our decontamination company offers a rigorous, hands-on training program</p>
                                 </div>
                             </div>
                         </div>
                         <!--End Single Service Style1-->
 
                         <!--Start Single Service Style1-->
-                        <div class="col-xl-4 col-lg-4">
+                        <div class="col-xl-3 col-lg-3">
                             <div class="single-service-style2">
                                 <div class="img-holder">
                                     <img src="assets/images/services/service-v1-2.jpg" alt="">
-                                    <div class="icon-box">
-                                        <span class="icon-restaurant"></span>
-                                    </div>
+
                                 </div>
-                                <div class="text-holder text-center">
-                                    <h3><a href="industries-details.html">Hotel & Restaurant</a></h3>
-                                    <p>Sed quia magni dolores eos qui ratione voluptatem sequi nesciunt eque porro.</p>
+                                <div class="text-holder text-center p-3">
+                                    <h3><a href="industries-details">Consultancy</a></h3>
+                                    <p>Our consultancy firm provides comprehensive, personalized training programs for clients.</p>
                                 </div>
                             </div>
                         </div>
                         <!--End Single Service Style1-->
 
                         <!--Start Single Service Style1-->
-                        <div class="col-xl-4 col-lg-4">
+                        <div class="col-xl-3 col-lg-3">
                             <div class="single-service-style2">
                                 <div class="img-holder">
                                     <img src="assets/images/services/service-v1-3.jpg" alt="">
-                                    <div class="icon-box">
-                                        <span class="icon-stethoscope"></span>
-                                    </div>
+
                                 </div>
-                                <div class="text-holder text-center">
-                                    <h3><a href="industries-details.html">Medical & Hospital</a></h3>
-                                    <p>Sed quia magni dolores eos qui ratione voluptatem sequi nesciunt eque porro.</p>
+                                <div class="text-holder text-center p-3">
+                                    <h3><a href="industries-details">Validation</a></h3>
+                                    <p>We offer thorough validation services to ensure reliable health equipment.</p>
                                 </div>
                             </div>
                         </div>
                         <!--End Single Service Style1-->
+
+                        <!--Start Single Service Style1-->
+                        <div class="col-xl-3 col-lg-3">
+                        <div class="single-service-style2">
+                            <div class="img-holder">
+                                <img src="assets/images/services/service-v1-3.jpg" alt="">
+
+                            </div>
+                            <div class="text-holder text-center p-3">
+                                <h3><a href="industries-details">Authorization</a></h3>
+                                <p>Our team provides efficient authorization services for compliant health equipment.</p>
+                            </div>
+                        </div>
+                    </div>
+                    <!--End Single Service Style1-->
 
                     </div>
                 </div>
@@ -301,7 +310,7 @@
                                 <h2>We only Provide<br> The Best<br> Services</h2>
                             </div>
                             <div class="btn-box">
-                                <a class="btn-one" href="contact.html">
+                                <a class="btn-one" href="contact">
                                     <span class="txt">
                                         Request Quote<i class="icon-refresh arrow"></i>
                                     </span>
@@ -593,14 +602,12 @@
 
                     <div class="col-xl-4 col-lg-12">
                         <div class="slogan-text-box">
-                            <p>Lorem ipsum dolor sit amet nsectetur
-                                cing elituspe ndisse suscipit sagitis
-                                leo sit.</p>
+
                         </div>
                     </div>
                     <div class="col-xl-3 col-lg-12">
                         <div class="slogan-btn-box">
-                            <a class="btn-one" href="about.html">
+                            <a class="btn-one" href="about">
                                 <span class="txt">
                                     discover more<i class="icon-refresh arrow"></i>
                                 </span>

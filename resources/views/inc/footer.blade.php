@@ -76,10 +76,10 @@
                             <div class="footer-widget-links">
                                 <ul>
 
-                                    <li><a href="about.html">About Us</a></li>
+                                    <li><a href="/about">About Us</a></li>
 
 
-                                    <li><a href="contact.html">Contact</a></li>
+                                    <li><a href="/contact">Contact</a></li>
                                 </ul>
                             </div>
                         </div>
@@ -94,8 +94,8 @@
                             </div>
                             <div class="footer-widget-links">
                                 <ul>
-                                    <li><a href="about.html">Courses</a></li>
-                                    <li><a href="about.html">Services</a></li>
+                                    <li><a href="/about">Courses</a></li>
+                                    <li><a href="/about">Services</a></li>
                                 </ul>
                             </div>
                         </div>
