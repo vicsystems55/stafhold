@@ -29,105 +29,82 @@
             </div>
         </section>
         <!--End breadcrumb area-->
+               <!--Start Service Style2 Area-->
+               <section class="service-style2-area">
+                <div class="gray-bg"></div>
+                <div class="container">
+                    <div class="sec-title text-center">
+                        <div class="sub-title">
+                            <h3>Industries We Serve</h3>
+                        </div>
+                        <h2>Services we provide</h2>
+                    </div>
+                    <div class="row">
 
-        <!--Start Service Style1 Area-->
-        <section class="service-style1-area">
-            <div class="container">
+                        <!--Start Single Service Style1-->
+                        <div class="col-xl-3 col-lg-3">
+                            <div class="single-service-style2">
+                                <div class="img-holder">
+                                    <img src="assets/images/services/service-v1-1.jpg" alt="">
 
-                <div class="row text-right-rtl">
-
-                    <!--Start Single Service Style1-->
-                    <div class="col-xl-3 col-lg-6 col-md-6 wow fadeInUp" data-wow-delay="00ms"
-                        data-wow-duration="1500ms">
-                        <div class="single-service-style1">
-                            <div class="inner">
-                                <div class="round-box"></div>
-                                <div class="icon">
-                                    <span class="icon-garbage-bin"></span>
                                 </div>
-                                <div class="text">
-                                    <h3>Garbage<br> Pickup</h3>
-                                    <p>Sed quia magni doles eos volupta tem qui ration volupta tem sequi nesciunt eque
-                                        porro.</p>
+                                <div class="text-holder text-center p-3">
+                                    <h3><a href="industries-details">Training</a></h3>
+                                    <p>Our decontamination company offers a rigorous, hands-on training program</p>
                                 </div>
                             </div>
-                            <div class="btn-box">
-                                <a href="services-single-1.html"><span class="icon-right-arrow"></span></a>
+                        </div>
+                        <!--End Single Service Style1-->
+
+                        <!--Start Single Service Style1-->
+                        <div class="col-xl-3 col-lg-3">
+                            <div class="single-service-style2">
+                                <div class="img-holder">
+                                    <img src="assets/images/services/service-v1-2.jpg" alt="">
+
+                                </div>
+                                <div class="text-holder text-center p-3">
+                                    <h3><a href="industries-details">Consultancy</a></h3>
+                                    <p>Our consultancy firm provides comprehensive, personalized training programs for clients.</p>
+                                </div>
+                            </div>
+                        </div>
+                        <!--End Single Service Style1-->
+
+                        <!--Start Single Service Style1-->
+                        <div class="col-xl-3 col-lg-3">
+                            <div class="single-service-style2">
+                                <div class="img-holder">
+                                    <img src="assets/images/services/service-v1-3.jpg" alt="">
+
+                                </div>
+                                <div class="text-holder text-center p-3">
+                                    <h3><a href="industries-details">Validation</a></h3>
+                                    <p>We offer thorough validation services to ensure reliable health equipment.</p>
+                                </div>
+                            </div>
+                        </div>
+                        <!--End Single Service Style1-->
+
+                        <!--Start Single Service Style1-->
+                        <div class="col-xl-3 col-lg-3">
+                        <div class="single-service-style2">
+                            <div class="img-holder">
+                                <img src="assets/images/services/service-v1-3.jpg" alt="">
+
+                            </div>
+                            <div class="text-holder text-center p-3">
+                                <h3><a href="industries-details">Authorization</a></h3>
+                                <p>Our team provides efficient authorization services for compliant health equipment.</p>
                             </div>
                         </div>
                     </div>
                     <!--End Single Service Style1-->
 
-                    <!--Start Single Service Style1-->
-                    <div class="col-xl-3 col-lg-6 col-md-6 wow fadeInUp" data-wow-delay="00ms"
-                        data-wow-duration="1500ms">
-                        <div class="single-service-style1">
-                            <div class="inner">
-                                <div class="round-box"></div>
-                                <div class="icon">
-                                    <span class="icon-dustbin-1"></span>
-                                </div>
-                                <div class="text">
-                                    <h3>Dumpster<br> Rental</h3>
-                                    <p>Sed quia magni doles eos volupta tem qui ration volupta tem sequi nesciunt eque
-                                        porro.</p>
-                                </div>
-                            </div>
-                            <div class="btn-box">
-                                <a href="services-single-2.html"><span class="icon-right-arrow"></span></a>
-                            </div>
-                        </div>
                     </div>
-                    <!--End Single Service Style1-->
-
-                    <!--Start Single Service Style1-->
-                    <div class="col-xl-3 col-lg-6 col-md-6 wow fadeInUp" data-wow-delay="00ms"
-                        data-wow-duration="1500ms">
-                        <div class="single-service-style1">
-                            <div class="inner">
-                                <div class="round-box"></div>
-                                <div class="icon">
-                                    <span class="icon-portable-toilet"></span>
-                                </div>
-                                <div class="text">
-                                    <h3>Portable<br> Toilets</h3>
-                                    <p>Sed quia magni doles eos volupta tem qui ration volupta tem sequi nesciunt eque
-                                        porro.</p>
-                                </div>
-                            </div>
-                            <div class="btn-box">
-                                <a href="services-single-3.html"><span class="icon-right-arrow"></span></a>
-                            </div>
-                        </div>
-                    </div>
-                    <!--End Single Service Style1-->
-
-                    <!--Start Single Service Style1-->
-                    <div class="col-xl-3 col-lg-6 col-md-6 wow fadeInUp" data-wow-delay="00ms"
-                        data-wow-duration="1500ms">
-                        <div class="single-service-style1">
-                            <div class="inner">
-                                <div class="round-box"></div>
-                                <div class="icon">
-                                    <span class="icon-recycle"></span>
-                                </div>
-                                <div class="text">
-                                    <h3>Residential<br> Recycling</h3>
-                                    <p>Sed quia magni doles eos volupta tem qui ration volupta tem sequi nesciunt eque
-                                        porro.</p>
-                                </div>
-                            </div>
-                            <div class="btn-box">
-                                <a href="services-single-4.html"><span class="icon-right-arrow"></span></a>
-                            </div>
-                        </div>
-                    </div>
-                    <!--End Single Service Style1-->
-
                 </div>
-            </div>
-        </section>
-        <!--End Service Style1 Area-->
+            </section>
+            <!--End Service Style2 Area-->
 
 
         <!--Start Partner Area-->
