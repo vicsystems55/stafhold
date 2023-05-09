@@ -31,70 +31,82 @@
         <!--End breadcrumb area-->
 
 
-        <!--Start About Style3 Area-->
-        <section class="about-style3-area">
-            <div class="shape1"></div>
+        <!--Start About Style1 Area-->
+        <section class="about-style1-area">
+            {{-- <div class="shape1"></div> --}}
             <div class="container">
-                <div class="row">
-
-                    <div class="col-xl-7">
-                        <div class="about-style3__img-box">
-                            <div class="inner">
-                                <img src="assets/images/about/about-style3-img.jpg" alt="">
+                <div class="row text-right-rtl">
+                    <div class="col-xl-6">
+                        <div class="about-style1__image clearfix">
+                            <div class="text-outer" data-aos="fade-left" data-aos-easing="linear"
+                                data-aos-duration="1500">
+                                Stafhold
                             </div>
-                            <div class="about-style3-experience">
-                                <p>We have <span>30+ years</span> of experiences</p>
-                            </div>
-                        </div>
-                    </div>
-
-                    <div class="col-xl-5">
-                        <div class="about-style3__content">
-                            <div class="sec-title">
-                                <div class="sub-title">
-                                    <h3>Get to Know Us</h3>
-                                </div>
-                                <h2>Company Offering all<br> Waste Mangement<br> Services</h2>
-                            </div>
-
+                            <div class="border-top"></div>
+                            <div class="border-left"></div>
+                            <div class="border-bottom"></div>
+                            <div class="border-right"></div>
                             <ul>
+
                                 <li>
-                                    <span class="icon-check-mark-button"></span>
-                                    <h3>We’re Professional</h3>
-                                    <p>Lorem ipsum is simply free<br> dolor sit amet.</p>
-                                </li>
-                                <li>
-                                    <span class="icon-check-mark-button"></span>
-                                    <h3>We’re Professional</h3>
-                                    <p>Lorem ipsum is simply free<br> dolor sit amet.</p>
+                                    <div class="img-box">
+                                        <img src="assets/images/about/about-style1__image-2.jpg" alt="">
+                                    </div>
                                 </li>
                             </ul>
-
-                            <div class="text">
-                                <p>There are many variations of passages of psum available, but the majority have
-                                    suffered alteration in some form, by injected humour, or some form, by injected
-                                    randomised words.</p>
-                            </div>
-
-                            <div class="author-box">
-                                <div class="img-box">
-                                    <img src="assets/images/about/about-style2__author-img.png" alt="">
-                                </div>
-
-                                <div class="title">
-                                    <h2>Kevin Martin</h2>
-                                    <span>Co-Founder</span>
-                                </div>
-                            </div>
-
                         </div>
                     </div>
 
+                    <div class="col-xl-6">
+                        <div class="about-style1__content">
+                            <div class="sec-title">
+                                <div class="sub-title">
+                                    <h3>Get to Know About Us</h3>
+                                </div>
+                                <h2>Discover Our Story and Values.</h2>
+                            </div>
+                            <div class="inner-content">
+                                <div class="text">
+                                    <p>
+                                        As a well-established healthcare decontamination company with 5 years of experience, we are trusted by numerous professionals in the industry who testify to our excellence in service and training.</p>
+                                </div>
+
+                                <div class="progress-levels">
+                                    <!--Start Progress Box-->
+
+                                    <!--End Progress Box-->
+                                    <!--Start Progress Box-->
+
+                                    <!--End Progress Box-->
+                                </div>
+
+                                <div class="about-style1__bottom-content">
+                                    <div class="row">
+
+                                        <div class="col-xl-6 col-lg-6 col-md-6">
+                                            <div class="text-box">
+                                                <ul>
+                                                    <li>Healthcare facilities</li>
+                                                    <li>Biotech and pharmaceuticals</li>
+                                                    <li>Professional Trainings</li>
+
+                                                </ul>
+                                            </div>
+                                        </div>
+
+
+                                    </div>
+                                </div>
+
+
+                            </div>
+                        </div>
+                    </div>
 
                 </div>
             </div>
         </section>
-        <!--End About Style3 Area-->
+        <!--End About Style1 Area-->
 
         <!--Start Partner Area-->
         <section class="partner-area pdtop120">
@@ -141,9 +153,9 @@
                         <div class="features-style3__content">
                             <div class="sec-title sec-title--style2">
                                 <div class="sub-title">
-                                    <h3>What We Can Recycle?</h3>
+                                    <h3>Areas we cover?</h3>
                                 </div>
-                                <h2>One of the Largest Full <br> Service Provider of Solid <br> Waste Collection</h2>
+                                <h2>Expert training for Safe and Sterile Environments.</h2>
                             </div>
 
                             <div class="video-btn">
@@ -166,44 +178,24 @@
                         <div class="features-style3__list">
                             <ul>
                                 <li>
-                                    <span class="icon-arrow-right"></span> Steel
+                                    <span class="icon-arrow-right"></span> Fundamentals of Healthcare Decontamination
                                 </li>
                                 <li>
-                                    <span class="icon-arrow-right"></span> Plastic
+                                    <span class="icon-arrow-right"></span> Advanced Techniques in Medical Decontamination
                                 </li>
                                 <li>
-                                    <span class="icon-arrow-right"></span> Lights & Bulbs
+                                    <span class="icon-arrow-right"></span>Decontamination High-Risk Medical Environments
                                 </li>
                                 <li>
-                                    <span class="icon-arrow-right"></span> Large Trash
+                                    <span class="icon-arrow-right"></span>Infection Prevention and Control in Healthcare Facilities
                                 </li>
+
                                 <li>
-                                    <span class="icon-arrow-right"></span> Common Waste
+                                    <span class="icon-arrow-right"></span>Sterilization Techniques for Medical Devices
                                 </li>
-                                <li>
-                                    <span class="icon-arrow-right"></span> Aluminium
-                                </li>
-                                <li>
-                                    <span class="icon-arrow-right"></span> Jugs & Jars
-                                </li>
+
                             </ul>
-                            <ul class="style2">
-                                <li>
-                                    <span class="icon-arrow-right"></span> Bottles
-                                </li>
-                                <li>
-                                    <span class="icon-arrow-right"></span> Food & Grocery
-                                </li>
-                                <li>
-                                    <span class="icon-arrow-right"></span> Electronics & Glasss
-                                </li>
-                                <li>
-                                    <span class="icon-arrow-right"></span> Newspaper
-                                </li>
-                                <li>
-                                    <span class="icon-arrow-right"></span>Books & Papers
-                                </li>
-                            </ul>
+
                         </div>
                     </div>
                     <!--End Features Style3 List-->
@@ -215,7 +207,7 @@
 
 
         <!--Start Team Style1 Area-->
-        <section class="team-style1-area">
+        <section class="team-style1-area d-none">
             <div class="container">
                 <div class="sec-title text-center">
                     <div class="sub-title">
