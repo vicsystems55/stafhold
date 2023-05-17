@@ -14,7 +14,7 @@
                     <div class="header-left">
                         <div class="main-logo-box">
                             <a href="/">
-                                <img src="assets/images/resources/logo.png" alt="Awesome Logo" title="">
+                                <img src="{{asset('/')}}assets/images/resources/logo.png" alt="Awesome Logo" title="">
                             </a>
                         </div>
                         <div class="header-social-link">
@@ -108,7 +108,7 @@
                     <!--Logo-->
                     <div class="logo float-left">
                         <a href="/" class="img-responsive">
-                            <img src="assets/images/resources/sticky-logo.png" alt="" title="">
+                            <img src="{{asset('/')}}assets/images/resources/sticky-logo.png" alt="" title="">
                         </a>
                     </div>
                     <!--Right Col-->
@@ -128,7 +128,7 @@
             <div class="menu-backdrop"></div>
             <div class="close-btn"><span class="icon fa fa-times-circle"></span></div>
             <nav class="menu-box">
-                <div class="nav-logo"><a href="/"><img src="assets/images/resources/mobilemenu-logo.png"
+                <div class="nav-logo"><a href="/"><img src="{{asset('/')}}assets/images/resources/mobilemenu-logo.png"
                             alt="" title=""></a></div>
                 <div class="menu-outer">
                     <!--Here Menu Will Come Automatically Via Javascript / Same Menu as in Header-->

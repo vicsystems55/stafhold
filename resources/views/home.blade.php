@@ -179,6 +179,8 @@
                             <div class="inner-content">
                                 <div class="text">
                                     <p>
+
+                                        The decontamination niche in the healthcare sector is a specialized area focused on preventing the spread of infections and ensuring the cleanliness and safety of healthcare facilities and equipment. It involves the use of various processes and technologies to remove or destroy harmful pathogens, including bacteria, viruses, and other microorganisms.
                                         As a well-established healthcare decontamination company with 5 years of experience, we are trusted by numerous professionals in the industry who testify to our excellence in service and training.</p>
                                 </div>
 

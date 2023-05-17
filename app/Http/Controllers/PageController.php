@@ -39,4 +39,10 @@ class PageController extends Controller
 
         return view('courses');
     }
+
+    public function course()
+    {
+
+        return view('course');
+    }
 }

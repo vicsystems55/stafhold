@@ -18,6 +18,8 @@ Route::get('/contact', [PageController::class,'contact']);
 Route::get('/about-us', [PageController::class,'about']);
 Route::get('/services', [PageController::class,'services']);
 Route::get('/courses', [PageController::class,'courses']);
+Route::get('/course', [PageController::class,'course']);
+
 Route::get('/', [PageController::class,'home']);
 
 

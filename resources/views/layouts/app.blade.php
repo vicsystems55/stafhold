@@ -19,50 +19,50 @@
 
 
 
-    <link rel="stylesheet" href="assets/css/animate.css">
-    <link rel="stylesheet" href="assets/css/aos.css">
-    <link rel="stylesheet" href="assets/css/bootstrap.min.css">
-    <link rel="stylesheet" href="assets/css/custom-animate.css">
-    <link rel="stylesheet" href="assets/css/fancybox.min.css">
-    <link rel="stylesheet" href="assets/css/flaticon.css">
-    <link rel="stylesheet" href="assets/css/font-awesome.min.css">
-    <link rel="stylesheet" href="assets/css/icomoon.css">
-    <link rel="stylesheet" href="assets/css/imp.css">
-    <link rel="stylesheet" href="assets/css/jquery.bootstrap-touchspin.css">
-    <link rel="stylesheet" href="assets/css/magnific-popup.css">
-    <link rel="stylesheet" href="assets/css/nice-select.css">
-    <link rel="stylesheet" href="assets/css/owl.css">
-    <link rel="stylesheet" href="assets/css/rtl.css">
-    <link rel="stylesheet" href="assets/css/scrollbar.css">
-    <link rel="stylesheet" href="assets/css/swiper.min.css">
+    <link rel="stylesheet" href="{{asset('/')}}assets/css/animate.css">
+    <link rel="stylesheet" href="{{asset('/')}}assets/css/aos.css">
+    <link rel="stylesheet" href="{{asset('/')}}assets/css/bootstrap.min.css">
+    <link rel="stylesheet" href="{{asset('/')}}assets/css/custom-animate.css">
+    <link rel="stylesheet" href="{{asset('/')}}assets/css/fancybox.min.css">
+    <link rel="stylesheet" href="{{asset('/')}}assets/css/flaticon.css">
+    <link rel="stylesheet" href="{{asset('/')}}assets/css/font-awesome.min.css">
+    <link rel="stylesheet" href="{{asset('/')}}assets/css/icomoon.css">
+    <link rel="stylesheet" href="{{asset('/')}}assets/css/imp.css">
+    <link rel="stylesheet" href="{{asset('/')}}assets/css/jquery.bootstrap-touchspin.css">
+    <link rel="stylesheet" href="{{asset('/')}}assets/css/magnific-popup.css">
+    <link rel="stylesheet" href="{{asset('/')}}assets/css/nice-select.css">
+    <link rel="stylesheet" href="{{asset('/')}}assets/css/owl.css">
+    <link rel="stylesheet" href="{{asset('/')}}assets/css/rtl.css">
+    <link rel="stylesheet" href="{{asset('/')}}assets/css/scrollbar.css">
+    <link rel="stylesheet" href="{{asset('/')}}assets/css/swiper.min.css">
 
     <!-- Module css -->
-    <link rel="stylesheet" href="assets/css/module-css/header-section.css">
-    <link rel="stylesheet" href="assets/css/module-css/banner-section.css">
-    <link rel="stylesheet" href="assets/css/module-css/about-section.css">
-    <link rel="stylesheet" href="assets/css/module-css/blog-section.css">
-    <link rel="stylesheet" href="assets/css/module-css/fact-counter-section.css">
-    <link rel="stylesheet" href="assets/css/module-css/faq-section.css">
-    <link rel="stylesheet" href="assets/css/module-css/contact-page.css">
-    <link rel="stylesheet" href="assets/css/module-css/breadcrumb-section.css">
-    <link rel="stylesheet" href="assets/css/module-css/team-section.css">
-    <link rel="stylesheet" href="assets/css/module-css/partner-section.css">
-    <link rel="stylesheet" href="assets/css/module-css/testimonial-section.css">
-    <link rel="stylesheet" href="assets/css/module-css/services-section.css">
-    <link rel="stylesheet" href="assets/css/module-css/footer-section.css">
+    <link rel="stylesheet" href="{{asset('/')}}assets/css/module-css/header-section.css">
+    <link rel="stylesheet" href="{{asset('/')}}assets/css/module-css/banner-section.css">
+    <link rel="stylesheet" href="{{asset('/')}}assets/css/module-css/about-section.css">
+    <link rel="stylesheet" href="{{asset('/')}}assets/css/module-css/blog-section.css">
+    <link rel="stylesheet" href="{{asset('/')}}assets/css/module-css/fact-counter-section.css">
+    <link rel="stylesheet" href="{{asset('/')}}assets/css/module-css/faq-section.css">
+    <link rel="stylesheet" href="{{asset('/')}}assets/css/module-css/contact-page.css">
+    <link rel="stylesheet" href="{{asset('/')}}assets/css/module-css/breadcrumb-section.css">
+    <link rel="stylesheet" href="{{asset('/')}}assets/css/module-css/team-section.css">
+    <link rel="stylesheet" href="{{asset('/')}}assets/css/module-css/partner-section.css">
+    <link rel="stylesheet" href="{{asset('/')}}assets/css/module-css/testimonial-section.css">
+    <link rel="stylesheet" href="{{asset('/')}}assets/css/module-css/services-section.css">
+    <link rel="stylesheet" href="{{asset('/')}}assets/css/module-css/footer-section.css">
 
-    <link href="assets/css/color/theme-color.css" id="jssDefault" rel="stylesheet">
-    <link rel="stylesheet" href="assets/css/style.css">
-    <link rel="stylesheet" href="assets/css/responsive.css">
+    <link href="{{asset('/')}}assets/css/color/theme-color.css" id="jssDefault" rel="stylesheet">
+    <link rel="stylesheet" href="{{asset('/')}}assets/css/style.css">
+    <link rel="stylesheet" href="{{asset('/')}}assets/css/responsive.css">
     <!-- Favicon -->
 
-    <link rel="icon" type="image/png" href="assets/images/favicon/favicon-32x32.png" sizes="32x32">
+    <link rel="icon" type="image/png" href="{{asset('/')}}assets/images/favicon/favicon-32x32.png" sizes="32x32">
 
 
     <!-- Fixing Internet Explorer-->
     <!--[if lt IE 9]>
         <script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
-        <script src="assets/js/html5shiv.js"></script>
+        <script src="{{asset('/')}}assets/js/html5shiv.js"></script>
     <![endif]-->
 
 </head>
@@ -103,39 +103,39 @@
 
 
 
-    <script src="assets/js/jquery.js"></script>
-    <script src="assets/js/aos.js"></script>
-    <script src="assets/js/appear.js"></script>
-    <script src="assets/js/bootstrap.bundle.min.js"></script>
-    <script src="assets/js/isotope.js"></script>
-    <script src="assets/js/jquery.bootstrap-touchspin.js"></script>
-    <script src="assets/js/jquery.countTo.js"></script>
-    <script src="assets/js/jquery.easing.min.js"></script>
-    <script src="assets/js/jquery.event.move.js"></script>
-    <script src="assets/js/jquery.fancybox.js"></script>
-    <script src="assets/js/jquery.magnific-popup.min.js"></script>
-    <script src="assets/js/jquery.nice-select.min.js"></script>
-    <script src="assets/js/jquery.paroller.min.js"></script>
-    <script src="assets/js/jquery-sidebar-content.js"></script>
-    <script src="assets/js/knob.js"></script>
-    <script src="assets/js/map-script.js"></script>
-    <script src="assets/js/owl.js"></script>
-    <script src="assets/js/pagenav.js"></script>
-    <script src="assets/js/scrollbar.js"></script>
-    <script src="assets/js/swiper.min.js"></script>
-    <script src="assets/js/tilt.jquery.js"></script>
-    <script src="assets/js/TweenMax.min.js"></script>
-    <script src="assets/js/validation.js"></script>
-    <script src="assets/js/wow.js"></script>
+    <script src="{{asset('/')}}assets/js/jquery.js"></script>
+    <script src="{{asset('/')}}assets/js/aos.js"></script>
+    <script src="{{asset('/')}}assets/js/appear.js"></script>
+    <script src="{{asset('/')}}assets/js/bootstrap.bundle.min.js"></script>
+    <script src="{{asset('/')}}assets/js/isotope.js"></script>
+    <script src="{{asset('/')}}assets/js/jquery.bootstrap-touchspin.js"></script>
+    <script src="{{asset('/')}}assets/js/jquery.countTo.js"></script>
+    <script src="{{asset('/')}}assets/js/jquery.easing.min.js"></script>
+    <script src="{{asset('/')}}assets/js/jquery.event.move.js"></script>
+    <script src="{{asset('/')}}assets/js/jquery.fancybox.js"></script>
+    <script src="{{asset('/')}}assets/js/jquery.magnific-popup.min.js"></script>
+    <script src="{{asset('/')}}assets/js/jquery.nice-select.min.js"></script>
+    <script src="{{asset('/')}}assets/js/jquery.paroller.min.js"></script>
+    <script src="{{asset('/')}}assets/js/jquery-sidebar-content.js"></script>
+    <script src="{{asset('/')}}assets/js/knob.js"></script>
+    <script src="{{asset('/')}}assets/js/map-script.js"></script>
+    <script src="{{asset('/')}}assets/js/owl.js"></script>
+    <script src="{{asset('/')}}assets/js/pagenav.js"></script>
+    <script src="{{asset('/')}}assets/js/scrollbar.js"></script>
+    <script src="{{asset('/')}}assets/js/swiper.min.js"></script>
+    <script src="{{asset('/')}}assets/js/tilt.jquery.js"></script>
+    <script src="{{asset('/')}}assets/js/TweenMax.min.js"></script>
+    <script src="{{asset('/')}}assets/js/validation.js"></script>
+    <script src="{{asset('/')}}assets/js/wow.js"></script>
 
-    <script src="assets/js/jquery-1color-switcher.min.js"></script>
+    <script src="{{asset('/')}}assets/js/jquery-1color-switcher.min.js"></script>
 
     <script async defer
         src="https://maps.googleapis.com/maps/api/js?key=AIzaSyATY4Rxc8jNvDpsK8ZetC7JyN4PFVYGCGM&amp;callback=initMap">
     </script>
 
     <!-- thm custom script -->
-    <script src="assets/js/custom.js"></script>
+    <script src="{{asset('/')}}assets/js/custom.js"></script>
 
 
 
