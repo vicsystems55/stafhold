@@ -117,7 +117,7 @@
                                             </div>
                                             <div class="text">
                                                 <p>
-                                                    <a href="tel:123456789">+1-(246) 333-0089</a>
+                                                    <a href="tel:+44 7480 302689">+44 7480 302689</a>
                                                 </p>
                                             </div>
                                         </div>
@@ -129,7 +129,7 @@
                                             </div>
                                             <div class="text">
                                                 <p>
-                                                    <a href="mailto:yourmail@email.com">admin@stafold.com</a>
+                                                    <a href="mailto:admin@stafhold.com">admin@stafhold.com</a>
                                                 </p>
                                             </div>
                                         </div>

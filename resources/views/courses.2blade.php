@@ -14,12 +14,12 @@
                                 data-aos-duration="1500">
                                 <ul>
                                     <li><a href="index.html">Home</a></li>
-                                    <li class="active">blog</li>
+                                    <li class="active">Courses</li>
                                 </ul>
                             </div>
 
                             <div class="title" data-aos="fade-up" data-aos-easing="linear" data-aos-duration="1500">
-                                <h2>Blog Posts</h2>
+                                <h2>Our Courses</h2>
                             </div>
 
                         </div>
@@ -30,23 +30,18 @@
         <!--End breadcrumb area-->
 
         <!--Start Blog Page One-->
-        <section class="blog-page-one">
+        <section style="min-height: 500px;" class="blog-page-one">
             <div class="container">
                 <div class="row">
 
+                    <div class="col-md-6 mb-2">
+                        <div class="card card-body border-0 " style="height: 350px;">
+                        <div class="row border">
+                            <div class="col-md-6 bg-warning" style="height: 350px; background-size: cover; background-image: url('assets/images/blog/blog-v1-1.jpg')">
 
-                    <!--Start Single Blog Style1-->
-                    <div class="col-xl-6">
-                        <div class="single-blog-style1">
-                            <div class="single-blog-style1__inner">
-                                <div class="img-holder">
-                                    <div class="inner">
-                                        <img src="assets/images/blog/blog-v1-1.jpg" alt="" />
-                                    </div>
-                                    <div class="date-box">
-                                        <h6>$960<br> <span></span></h6>
-                                    </div>
-                                </div>
+                            </div>
+                            <div class="col-md-6 p-3">
+
                                 <div class="text-holder">
                                     <ul class="meta-info">
                                         <li>
@@ -57,11 +52,49 @@
                                     </ul>
                                     <div class="text-inner">
                                         <h3 class="blog-title">
-                                            <a href="/course?code=four">Sterilization and Disinfection Best Practices for Healthcare Facilities</a>
+                                            <a href="/course?code=one">Sterilization and Disinfection Best Practices for Healthcare Facilities</a>
                                         </h3>
                                     </div>
                                     <div class="text">
-                                        <p>Discover industry-leading practices for sterilization and disinfection in healthcare facilities, maintaining a safe and hygienic environment.</p>
+                                        <p>Discover industry-leading practices for sterilization and disinfection in healthcare facilities, maintaining a safe and hygienic environment.
+                                        </p>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        </div>
+                    </div>
+
+
+{{--
+                    <!--Start Single Blog Style1-->
+                    <div class="col-xl-6">
+                        <div class="single-blog-style1">
+                            <div class="single-blog-style1__inner" style="height: 455px;">
+                                <div class="img-holder" style="height: 100%;">
+                                    <div class="inner" style="height: 100%;">
+                                        <img style="height: 100%;  object-fit: cover; " src="assets/images/blog/blog-v1-1.jpg" alt="" />
+                                    </div>
+                                    <div class="date-box">
+                                        <h6>$900<br> <span></span></h6>
+                                    </div>
+                                </div>
+                                <div class="text-holder" style="height: 455px;">
+                                    <ul class="meta-info">
+                                        <li>
+                                            <i class="fa fa-user" aria-hidden="true"></i> <a href="#">by
+                                                Admin</a>
+                                        </li>
+
+                                    </ul>
+                                    <div class="text-inner">
+                                        <h3 class="blog-title">
+                                            <a href="/course?code=one">Sterilization and Disinfection Best Practices for Healthcare Facilities</a>
+                                        </h3>
+                                    </div>
+                                    <div class="text">
+                                        <p>Discover industry-leading practices for sterilization and disinfection in healthcare facilities, maintaining a safe and hygienic environment.
+                                        </p>
                                     </div>
                                 </div>
                             </div>
@@ -71,16 +104,16 @@
                     <!--Start Single Blog Style1-->
                     <div class="col-xl-6">
                         <div class="single-blog-style1">
-                            <div class="single-blog-style1__inner">
-                                <div class="img-holder">
-                                    <div class="inner">
-                                        <img src="assets/images/blog/blog-v1-2.jpg" alt="" />
+                            <div class="single-blog-style1__inner" style="height: 455px;">
+                                <div class="img-holder" style="height: 100%;">
+                                    <div class="inner" style="height: 100%;">
+                                        <img style="height: 100%; object-fit: cover;" src="assets/images/blog/blog-v1-2.jpg" alt="" />
                                     </div>
                                     <div class="date-box">
-                                        <h6>$800<br> <span></span></h6>
+                                        <h6>$1100<br> <span></span></h6>
                                     </div>
                                 </div>
-                                <div class="text-holder">
+                                <div class="text-holder" style="height: 455px;">
                                     <ul class="meta-info">
                                         <li>
                                             <i class="fa fa-user" aria-hidden="true"></i> <a href="#">by
@@ -90,7 +123,7 @@
                                     </ul>
                                     <div class="text-inner">
                                         <h3 class="blog-title">
-                                            <a href="/course?code=four">Mastering Central Sterile Services Department (CSSD) Operations</a>
+                                            <a href="/course?code=two">Mastering Central Sterile Services Department (CSSD) Operations</a>
                                         </h3>
                                     </div>
                                     <div class="text">
@@ -105,16 +138,16 @@
                     <!--Start Single Blog Style1-->
                     <div class="col-xl-6">
                         <div class="single-blog-style1">
-                            <div class="single-blog-style1__inner">
-                                <div class="img-holder">
-                                    <div class="inner">
-                                        <img src="assets/images/blog/blog-v1-3.jpg" alt="" />
+                            <div class="single-blog-style1__inner" style="height: 455px;">
+                                <div class="img-holder" style="height: 100%;">
+                                    <div class="inner" style="height: 100%;">
+                                        <img style="height: 100%; object-fit: cover;" src="assets/images/blog/blog-v1-3.jpg" alt="" />
                                     </div>
                                     <div class="date-box">
-                                        <h6>$1100<br> <span></span></h6>
+                                        <h6>$880<br> <span></span></h6>
                                     </div>
                                 </div>
-                                <div class="text-holder">
+                                <div class="text-holder" style="height: 455px;">
                                     <ul class="meta-info">
                                         <li>
                                             <i class="fa fa-user" aria-hidden="true"></i> <a href="#">by
@@ -122,9 +155,10 @@
                                         </li>
 
                                     </ul>
+
                                     <div class="text-inner">
                                         <h3 class="blog-title">
-                                            <a href="/course?code=four">Infection Control and Environmental Decontamination in Healthcare</a>
+                                            <a href="/course?code=three">Infection Control and Environmental Decontamination in Healthcare</a>
                                         </h3>
                                     </div>
                                     <div class="text">
@@ -138,16 +172,16 @@
                     <!--Start Single Blog Style1-->
                     <div class="col-xl-6">
                         <div class="single-blog-style1">
-                            <div class="single-blog-style1__inner">
-                                <div class="img-holder">
-                                    <div class="inner">
-                                        <img src="assets/images/blog/blog-v1-4.jpg" alt="" />
+                            <div class="single-blog-style1__inner" style="height: 455px;">
+                                <div class="img-holder" style="height: 100%;">
+                                    <div class="inner " style="height: 100%;">
+                                        <img style="height: 100%; object-fit: cover;" src="assets/images/blog/blog-v1-4.jpg" alt="" />
                                     </div>
                                     <div class="date-box">
-                                        <h6>$1000<br> <span></span></h6>
+                                        <h6>$1200<br> <span></span></h6>
                                     </div>
                                 </div>
-                                <div class="text-holder">
+                                <div class="text-holder" style="height: 455px;">
                                     <ul class="meta-info">
                                         <li>
                                             <i class="fa fa-user" aria-hidden="true"></i> <a href="#">by
@@ -167,8 +201,7 @@
                             </div>
                         </div>
                     </div>
-                    <!--End Single Blog Style1-->
-
+                    <!--End Single Blog Style1--> --}}
 
 
 
@@ -182,5 +215,48 @@
 
         </section>
         <!--End Blog Page One-->
+
+
+
+        <!--Start slogan area-->
+        <section class="slogan-area">
+            <div class="container">
+                <div class="row">
+
+                    <div class="col-xl-5">
+                        <div class="phone-number-box2">
+                            <div class="icon">
+                                <span class="icon-phone-ringing"></span>
+                            </div>
+                            <div class="phone">
+                                <p>Have any questions?</p>
+                                <a href="tel:123456789">+1-(246) 333-0089</a>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="col-xl-4">
+                        <div class="slogan-text-box">
+                            <p>Lorem ipsum dolor sit amet nsectetur
+                                cing elituspe ndisse suscipit sagitis
+                                leo sit.</p>
+                        </div>
+                    </div>
+                    <div class="col-xl-3">
+                        <div class="slogan-btn-box">
+                            <a class="btn-one" href="contact.html">
+                                <span class="txt">
+                                    discover more<i class="icon-refresh arrow"></i>
+                                </span>
+                            </a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+        <!--End slogan area-->
+
+
+
 
 @endsection
