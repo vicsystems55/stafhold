@@ -233,28 +233,26 @@
             <div class="container">
                 <div class="row">
 
-                    <div class="col-xl-5">
+                    <div class="col-xl-5 col-lg-12">
                         <div class="phone-number-box2">
                             <div class="icon">
                                 <span class="icon-phone-ringing"></span>
                             </div>
                             <div class="phone">
                                 <p>Have any questions?</p>
-                                <a href="tel:123456789">+1-(246) 333-0089</a>
+                                <a href="tel:+44 7480 302689">+44 7480 302689</a>
                             </div>
                         </div>
                     </div>
 
-                    <div class="col-xl-4">
+                    <div class="col-xl-4 col-lg-12">
                         <div class="slogan-text-box">
-                            <p>Lorem ipsum dolor sit amet nsectetur
-                                cing elituspe ndisse suscipit sagitis
-                                leo sit.</p>
+
                         </div>
                     </div>
-                    <div class="col-xl-3">
+                    <div class="col-xl-3 col-lg-12">
                         <div class="slogan-btn-box">
-                            <a class="btn-one" href="contact.html">
+                            <a class="btn-one" href="about">
                                 <span class="txt">
                                     discover more<i class="icon-refresh arrow"></i>
                                 </span>
