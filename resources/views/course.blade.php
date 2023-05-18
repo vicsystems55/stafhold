@@ -15,12 +15,12 @@
                                 data-aos-duration="1500">
                                 <ul>
                                     <li><a href="index.html">Home</a></li>
-                                    <li class="active">blog Single</li>
+                                    <li class="active">Course Details</li>
                                 </ul>
                             </div>
 
                             <div class="title" data-aos="fade-up" data-aos-easing="linear" data-aos-duration="1500">
-                                <h2>Blog Single</h2>
+                                <h2>Course Details</h2>
                             </div>
 
                         </div>
@@ -46,7 +46,7 @@
                                         <div class="inner">
                                             <img src="{{asset('/')}}assets/images/blog/blog-v3-1.jpg" alt="">
                                         </div>
-                                       
+
                                     </div>
                                     <div class="text-holder">
                                         <ul class="meta-info">
