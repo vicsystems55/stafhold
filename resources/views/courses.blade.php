@@ -14,12 +14,12 @@
                                 data-aos-duration="1500">
                                 <ul>
                                     <li><a href="index.html">Home</a></li>
-                                    <li class="active">blog</li>
+                                    <li class="active">Courses</li>
                                 </ul>
                             </div>
 
                             <div class="title" data-aos="fade-up" data-aos-easing="linear" data-aos-duration="1500">
-                                <h2>Blog Posts</h2>
+                                <h2>Our Courses</h2>
                             </div>
 
                         </div>
