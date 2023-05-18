@@ -6,7 +6,7 @@
 
 
         <!-- Main header-->
-      
+
 
 
         <!--Start breadcrumb area paroller-->
@@ -66,8 +66,7 @@
                                 <h2>Contact with the Team</h2>
                             </div>
                             <div class="text">
-                                <p>Sed quia magni dolores eos qui ratione voluptatem sequi nesciunt eque <br> free porro
-                                    simply.</p>
+                                <p></p>
                             </div>
 
                             <div class="contact-info-list">
@@ -79,7 +78,7 @@
 
                                         <div class="text">
                                             <p>Have any questions?</p>
-                                            <h4>Free: <a href="tel:123456789">+ 1- (246) 333-0089</a></h4>
+                                            <h4>Free: <a href="tel:+44 7480 302689">+44 7480 302689</a></h4>
                                         </div>
                                     </li>
 
@@ -90,7 +89,7 @@
 
                                         <div class="text">
                                             <p>Write a email</p>
-                                            <h4><a href="mailto:yourmail@email.com">needhelp@company.com</a></h4>
+                                            <h4><a href="mailto:yourmail@email.com">admin@stafhold.com</a></h4>
                                         </div>
                                     </li>
 
@@ -101,7 +100,10 @@
 
                                         <div class="text">
                                             <p>Visit our location</p>
-                                            <h4>88 broklyn golden street. New York, USA</h4>
+                                            <h4>81A Parchmore Road,
+                                                Thornton Heath, Croydon
+                                                United Kingdom
+                                                CR7 8LY </h4>
                                         </div>
                                     </li>
                                 </ul>
