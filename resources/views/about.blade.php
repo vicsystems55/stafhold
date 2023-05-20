@@ -50,7 +50,7 @@
 
                                 <li>
                                     <div class="img-box">
-                                        <img src="assets/images/about/about-style1__image-2.jpg" alt="">
+                                        <img src="assets/images/about/about-style1__image-3.jpg" alt="">
                                     </div>
                                 </li>
                             </ul>

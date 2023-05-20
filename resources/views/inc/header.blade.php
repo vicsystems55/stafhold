@@ -49,22 +49,22 @@
                             <nav class="main-menu style1 navbar-expand-md navbar-light">
                                 <div class="collapse navbar-collapse show clearfix" id="navbarSupportedContent">
                                     <ul class="navigation clearfix">
-                                        <li class="dropdown current"><a href="/"><span>Home</span></a>
+                                        <li class="{{request()->is('')?'current':''}}"><a href="/"><span>Home</span></a>
 
                                         </li>
 
-                                        <li class=""><a href="/about-us"><span>About</span></a>
+                                        <li class="{{request()->is('about-us')?'current':''}}"><a href="/about-us"><span>About</span></a>
 
                                         </li>
-                                        <li class=""><a href="/services"><span>Services</span></a>
-
-                                        </li>
-
-                                        <li class=""><a href="/courses"><span>Training</span></a>
+                                        <li class="{{request()->is('services')?'current':''}}"><a href="/services"><span>Services</span></a>
 
                                         </li>
 
-                                        <li class=""><a href="/contact"><span>Contact</span></a>
+                                        <li class="{{request()->is('courses')?'current':''}}"><a href="/courses"><span>Training</span></a>
+
+                                        </li>
+
+                                        <li class="{{request()->is('contact')?'current':''}}"><a href="/contact"><span>Contact</span></a>
 
                                         </li>
                                     </ul>
