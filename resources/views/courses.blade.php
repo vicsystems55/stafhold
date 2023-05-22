@@ -43,9 +43,7 @@
                                     <div class="inner">
                                         <img src="assets/images/blog/blog-v1-1.jpg" alt="" />
                                     </div>
-                                    <div class="date-box">
-                                        <h6>$960<br> <span></span></h6>
-                                    </div>
+
                                 </div>
                                 <div class="text-holder">
                                     <ul class="meta-info">
@@ -76,9 +74,7 @@
                                     <div class="inner">
                                         <img src="assets/images/blog/blog-v1-2.jpg" alt="" />
                                     </div>
-                                    <div class="date-box">
-                                        <h6>$800<br> <span></span></h6>
-                                    </div>
+
                                 </div>
                                 <div class="text-holder">
                                     <ul class="meta-info">
@@ -110,9 +106,7 @@
                                     <div class="inner">
                                         <img src="assets/images/blog/blog-v1-3.jpg" alt="" />
                                     </div>
-                                    <div class="date-box">
-                                        <h6>$1100<br> <span></span></h6>
-                                    </div>
+
                                 </div>
                                 <div class="text-holder">
                                     <ul class="meta-info">
@@ -143,9 +137,7 @@
                                     <div class="inner">
                                         <img src="assets/images/blog/blog-v1-4.jpg" alt="" />
                                     </div>
-                                    <div class="date-box">
-                                        <h6>$1000<br> <span></span></h6>
-                                    </div>
+                                  
                                 </div>
                                 <div class="text-holder">
                                     <ul class="meta-info">

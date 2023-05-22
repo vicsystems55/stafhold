@@ -108,7 +108,7 @@
 
 
         <!--Start Partner Area-->
-        <section class="partner-area partner-area--style2 gray-bg">
+        {{-- <section class="partner-area partner-area--style2 gray-bg">
             <div class="container">
                 <div class="brand-content">
                     <div class="inner">
@@ -137,7 +137,7 @@
                     </div>
                 </div>
             </div>
-        </section>
+        </section> --}}
         <!--End Partner Area-->
 
 
