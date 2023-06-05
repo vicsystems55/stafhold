@@ -242,7 +242,7 @@
                                 </div>
                                 <div class="text-holder text-center p-3">
                                     <h3><a href="industries-details">Training</a></h3>
-                                    <p>Our decontamination company offers a rigorous, hands-on training program</p>
+                                    <p class="py-2">Our decontamination company offers a rigorous, hands-on training program</p>
                                 </div>
                             </div>
                         </div>
@@ -257,7 +257,7 @@
                                 </div>
                                 <div class="text-holder text-center p-3">
                                     <h3><a href="industries-details">Consultancy</a></h3>
-                                    <p>Our consultancy firm provides comprehensive, personalized training programs for clients.</p>
+                                    <p class="py-2">Our consultancy firm provides comprehensive, personalized training programs for clients.</p>
                                 </div>
                             </div>
                         </div>
@@ -272,7 +272,7 @@
                                 </div>
                                 <div class="text-holder text-center p-3">
                                     <h3><a href="industries-details">Validation</a></h3>
-                                    <p>We offer thorough validation services to ensure reliable health equipment.</p>
+                                    <p class="py-2">We offer thorough validation services to ensure reliable health equipment.</p>
                                 </div>
                             </div>
                         </div>
@@ -287,7 +287,7 @@
                             </div>
                             <div class="text-holder text-center p-3">
                                 <h3><a href="industries-details">Authorization</a></h3>
-                                <p>Our team provides efficient authorization services for compliant health equipment.</p>
+                                <p class="py-2">Our team provides efficient authorization services for compliant health equipment.</p>
                             </div>
                         </div>
                     </div>
@@ -298,7 +298,80 @@
             </section>
             <!--End Service Style2 Area-->
 
-                    <!--Start Choose Style1 Area-->
+                <!--Start Features Style3 Area-->
+                <section class="features-style3-area">
+                    <div class="features-style3__bg"
+                        style="background-image: url(assets/images/parallax-background/features-v3-bg.jpg);"></div>
+                    <div class="container">
+                        <div class="row">
+                            <!--Start Features Style3 Content-->
+                            <div class="col-xl-7">
+                                <div class="features-style3__content">
+                                    <div class="sec-title sec-title--style2">
+                                        <div class="sub-title">
+                                            <h2>Train to become a sterile technician within the NHS £300</h2>
+                                        </div>
+                                        <div class="text-white">
+                                            <p class="h5 text-warning">Crash course of 2 weekends- practicals and theory</p>
+                                            <p class="h5">Do you want to build a career in a fast paced ever growing field in healthcare industry?</p>
+                                        <p class="h5">Do you want to make a difference in peoples life?.</p>
+                                        <p class="h5 text-warning">Then you should explore to learn and train of becoming a sterile technician</p>
+                                        </div>
+                                    </div>
+
+                                    <div class="video-btn">
+                                        <div class="icon wow zoomIn animated animated" data-wow-delay="300ms"
+                                            data-wow-duration="1500ms"
+                                            style="visibility: visible; animation-duration: 1500ms; animation-delay: 300ms; animation-name: zoomIn;">
+                                            <a class="video-popup" title="Video Gallery"
+                                                href="https://www.youtube.com/watch?v=MLpWrANjFbI">
+                                                <span class="icon-play-buttton"></span>
+                                            </a>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            <!--End Features Style3 Content-->
+
+
+                            <!--Start Features Style3 List-->
+                            <div class="col-xl-5">
+                                <div class="features-style3__list">
+                                    <h3 class="text-white">Benefits & Prospect</h3>
+
+                                    <ul>
+                                        <li>
+                                            <span class="icon-arrow-right"></span> Steady workforce/ Jobs within the NHS Sector
+                                        </li>
+                                        <li>
+                                            <span class="icon-arrow-right"></span> self-employed and contracts available steadily
+                                        </li>
+                                        <li>
+                                            <span class="icon-arrow-right"></span>Salary potential ranges from £200 per day during the week to £300 period weekend.
+                                        </li>
+                                        <li>
+                                            <span class="icon-arrow-right"></span>£4000 per month on contracts.
+                                        </li>
+
+                                        <li>
+                                            <span class="icon-arrow-right"></span>Agencies are always looking for potential candid.
+                                        </li>
+
+                                        <li>
+                                            <span class="icon-arrow-right"></span>More jobs are coming out from February/March onwards (Due to COVID19 crisis and many on standby)
+                                        </li>
+
+                                    </ul>
+
+                                </div>
+                            </div>
+                            <!--End Features Style3 List-->
+                        </div>
+                    </div>
+                </section>
+                <!--End Features Style3 Area-->
+
+        <!--Start Choose Style1 Area-->
         <section class="choose-style1-area">
             <div class="container">
                 <div class="row">
