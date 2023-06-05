@@ -142,7 +142,7 @@
 
 
         <!--Start Working process area -->
-        <section class="working-process-area pdtop120">
+        <section class="working-process-area pdtop120 d-none">
             <div class="container">
                 <div class="sec-title text-center">
                     <div class="sub-title">
