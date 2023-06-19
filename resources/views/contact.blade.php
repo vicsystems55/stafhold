@@ -120,16 +120,24 @@
                                     <h3>Write Message</h3>
                                 </div>
                                 <h2>Send a Message</h2>
+
+                                @if (Session::has('msg'))
+                                <p class="alert alert-success">{{Session::get('msg')}}</p>
+
+                                @endif
+
                             </div>
 
-                            <form id="contact-form" name="contact_form" class="default-form2"
-                                action="https://mehedi.asiandevelopers.com/westo-demo/assets/inc/sendmail.php" method="post">
+                            <form  name="contact_form" class="default-form2"
+                                action="/post-message" method="post">
+
+                                @csrf
                                 <div class="row">
 
                                     <div class="col-xl-12">
                                         <div class="form-group">
                                             <div class="input-box">
-                                                <input type="text" name="form_name" id="formName"
+                                                <input type="text" name="name" id="formName"
                                                     placeholder="Full Name" required="">
                                             </div>
                                         </div>
@@ -138,7 +146,7 @@
                                     <div class="col-xl-12">
                                         <div class="form-group">
                                             <div class="input-box">
-                                                <input type="email" name="form_email" id="formEmail"
+                                                <input type="email" name="email" id="formEmail"
                                                     placeholder="Email Address" required="">
                                             </div>
                                         </div>
@@ -147,7 +155,7 @@
                                     <div class="col-xl-12">
                                         <div class="form-group">
                                             <div class="input-box">
-                                                <input type="text" name="form_phone" value="" id="formPhone"
+                                                <input type="text" name="phone" value="" id="formPhone"
                                                     placeholder="Phone">
                                             </div>
                                         </div>
@@ -156,7 +164,7 @@
                                     <div class="col-xl-12">
                                         <div class="form-group">
                                             <div class="input-box">
-                                                <input type="text" name="form_subject" value="" id="formSubject"
+                                                <input type="text" name="subject" value="" id="formSubject"
                                                     placeholder="Subject">
                                             </div>
                                         </div>
@@ -165,7 +173,7 @@
                                     <div class="col-xl-12">
                                         <div class="form-group">
                                             <div class="input-box">
-                                                <textarea name="form_message" id="formMessage"
+                                                <textarea name="message" id="formMessage"
                                                     placeholder="Write a Message" required=""></textarea>
                                             </div>
                                         </div>
@@ -173,9 +181,8 @@
 
                                     <div class="col-xl-12">
                                         <div class="button-box">
-                                            <input id="form_botcheck" name="form_botcheck" class="form-control"
-                                                type="hidden" value="">
-                                            <button class="btn-one" type="submit" data-loading-text="Please wait...">
+
+                                            <button class="btn-one" type="submit" >
                                                 <span class="txt">send a message<i
                                                         class="icon-refresh arrow"></i></span>
                                             </button>

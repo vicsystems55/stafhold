@@ -319,16 +319,7 @@
                                         </div>
                                     </div>
 
-                                    <div class="video-btn">
-                                        <div class="icon wow zoomIn animated animated" data-wow-delay="300ms"
-                                            data-wow-duration="1500ms"
-                                            style="visibility: visible; animation-duration: 1500ms; animation-delay: 300ms; animation-name: zoomIn;">
-                                            <a class="video-popup" title="Video Gallery"
-                                                href="https://www.youtube.com/watch?v=MLpWrANjFbI">
-                                                <span class="icon-play-buttton"></span>
-                                            </a>
-                                        </div>
-                                    </div>
+                                    
                                 </div>
                             </div>
                             <!--End Features Style3 Content-->
@@ -357,9 +348,7 @@
                                             <span class="icon-arrow-right"></span>Agencies are always looking for potential candid.
                                         </li>
 
-                                        <li>
-                                            <span class="icon-arrow-right"></span>More jobs are coming out from February/March onwards (Due to COVID19 crisis and many on standby)
-                                        </li>
+
 
                                     </ul>
 

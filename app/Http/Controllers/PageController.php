@@ -66,4 +66,10 @@ class PageController extends Controller
 
         return back()->with('message', 'Password changed');
     }
+
+    public function test_view()
+    {
+
+        return view('mails.contact_mail');
+    }
 }

@@ -1,7 +1,8 @@
 <?php
 
-use App\Http\Controllers\PageController;
 use Illuminate\Support\Facades\Route;
+use App\Http\Controllers\PageController;
+use App\Http\Controllers\ContactFormController;
 
 /*
 |--------------------------------------------------------------------------
@@ -25,6 +26,12 @@ Route::post('/change-password', [PageController::class,'change_password']);
 Route::get('/course', [PageController::class,'course']);
 
 Route::get('/', [PageController::class,'home']);
+
+Route::get('/test-view', [PageController::class,'test_view']);
+
+Route::post('/post-message', [ContactFormController::class,'post_message']);
+
+
 
 
 
