@@ -240,7 +240,7 @@
                             </div>
                             <div class="phone">
                                 <p>Have any questions?</p>
-                                <a href="tel:+44 7480 302689">+44 7480 302689</a>
+                                <a href="tel: 07445 107434"> 07445 107434</a>
                             </div>
                         </div>
                     </div>

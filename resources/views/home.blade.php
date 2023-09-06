@@ -282,7 +282,7 @@
                         <div class="col-xl-3 col-lg-3">
                         <div class="single-service-style2">
                             <div class="img-holder">
-                                <img src="assets/images/services/service-v1-3.jpg" alt="">
+                                <img src="assets/images/services/service-v1-5.jpg" alt="">
 
                             </div>
                             <div class="text-holder text-center p-3">
@@ -309,7 +309,7 @@
                                 <div class="features-style3__content">
                                     <div class="sec-title sec-title--style2">
                                         <div class="sub-title">
-                                            <h2>Train to become a sterile technician within the NHS £300</h2>
+                                            <h2>Train to become a sterile technician within the NHS </h2>
                                         </div>
                                         <div class="text-white">
                                             <p class="h5 text-warning">Crash course of 2 weekends- practicals and theory</p>
@@ -319,7 +319,7 @@
                                         </div>
                                     </div>
 
-                                    
+
                                 </div>
                             </div>
                             <!--End Features Style3 Content-->
@@ -337,9 +337,9 @@
                                         <li>
                                             <span class="icon-arrow-right"></span> self-employed and contracts available steadily
                                         </li>
-                                        <li>
-                                            <span class="icon-arrow-right"></span>Salary potential ranges from £200 per day during the week to £300 period weekend.
-                                        </li>
+                                        {{-- <li>
+                                            <span class="icon-arrow-right"></span>Salary potential ranges from £200 per day during the week to  period weekend.
+                                        </li> --}}
                                         <li>
                                             <span class="icon-arrow-right"></span>£4000 per month on contracts.
                                         </li>
@@ -659,7 +659,7 @@
                             </div>
                             <div class="phone">
                                 <p>Have any questions?</p>
-                                <a href="tel:+44 7480 302689">+44 7480 302689</a>
+                                <a href="tel: 07445 107434"> 07445 107434</a>
                             </div>
                         </div>
                     </div>
