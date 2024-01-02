@@ -100,10 +100,12 @@
 
                                         <div class="text">
                                             <p>Visit our location</p>
-                                            <h4>81A Parchmore Road,
-                                                Thornton Heath, Croydon
-                                                United Kingdom
-                                                CR7 8LY </h4>
+                                            <h4>24 Harbour House
+                                                Coldharbour Lane
+                                                Rainham
+                                                RM13 9YB
+
+                                                United Kingdom</h4>
                                         </div>
                                     </li>
                                 </ul>

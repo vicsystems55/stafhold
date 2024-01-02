@@ -140,9 +140,12 @@
                                                 <span class="icon-pin-1"></span>
                                             </div>
                                             <div class="text">
-                                                <p>81A Parchmore Road,<br>
-                                                    Thornton Heath, Croydon<br>
-                                                    United Kingdom </p>
+                                                <p>24 Harbour House
+                                                    Coldharbour Lane
+                                                    Rainham
+                                                    RM13 9YB
+
+                                                    United Kingdom</p>
                                             </div>
                                         </div>
                                     </li>

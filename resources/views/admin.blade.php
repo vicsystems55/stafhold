@@ -64,6 +64,19 @@
 
             </div>
 
+            <div class="updae">
+                @if(Session::has('msg'))
+                <p class="alert alert-info">{{ Session::get('msg') }}</p>
+                @endif
+                <div class="py-2">
+                    <form action="/update-site" method="post">
+                    @csrf
+
+                    <button type="submit" class="btn btn-primary">Update App</button>
+                    </form>
+                </div>
+            </div>
+
         </section>
         <!--End Blog Page One-->
 
