@@ -50,12 +50,12 @@
 
                     <div class="form-group">
                         <label for="n">New password</label>
-                        <input type="text" name="password" class="form-control" placeholder="New Password">
+                        <input type="password" name="password" class="form-control" placeholder="New Password">
                     </div>
 
                     <div class="form-group">
                         <label for="">Confirm Password</label>
-                        <input type="text" name="confirm-password" class="form-control" placeholder="Confirm new password">
+                        <input type="password" name="confirm-password" class="form-control" placeholder="Confirm new password">
                     </div>
                     <div class="form-group"><button type="submit" class="btn btn-primary">Submit</button></div>
 
