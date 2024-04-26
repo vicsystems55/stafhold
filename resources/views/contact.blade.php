@@ -128,6 +128,11 @@
 
                                 @endif
 
+                                @if (Session::has('status'))
+                                <p class="alert alert-success">{{Session::get('status')}}</p>
+
+                                @endif
+
                             </div>
 
                             <form  name="contact_form" class="default-form2"
@@ -180,6 +185,9 @@
                                             </div>
                                         </div>
                                     </div>
+
+                                     <!-- Google Recaptcha -->
+        <div class="g-recaptcha mt-4" data-sitekey={{config('services.recaptcha.key')}}></div>
 
                                     <div class="col-xl-12">
                                         <div class="button-box">
