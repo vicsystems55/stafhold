@@ -182,10 +182,10 @@
                                     </div>
 
                                     <div class="col-xl-12">
-                                        <div class="form-group">sdfsf
+                                        <div class="form-group">
                                             <div class="g-recaptcha mt-4" data-sitekey={{config('services.recaptcha.key')}}></div>
 
-                                        sdfsf</div>
+                                        </div>
                                     </div>
 
                                      <!-- Google Recaptcha -->
