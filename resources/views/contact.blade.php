@@ -20,7 +20,7 @@
                             <div class="breadcrumb-menu" data-aos="fade-down" data-aos-easing="linear"
                                 data-aos-duration="1500">
                                 <ul>
-                                    <li><a href="index.html">Home</a></li>
+                                    <li><a href="/">Home</a></li>
                                     <li class="active">Contact</li>
                                 </ul>
                             </div>
@@ -40,12 +40,7 @@
         <section class="google-map-area">
             <div class="auto-container">
                 <div class="contact-page-map-outer">
-                    <!--Map Canvas-->
-                    <div class="map-canvas" data-zoom="12" data-lat="51.401230" data-lng="-0.100400"
-                        data-type="roadmap" data-hue="#ffc400" data-title="Envato"
-                        data-icon-path="assets/images/icon/map-marker.png"
-                        data-content="Melbourne VIC 3000, Australia<br><a href='mailto:info@youremail.com'>info@youremail.com</a>">
-                    </div>
+                    <div style="width: 100%"><iframe width="100%" height="600" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://maps.google.com/maps?width=100%25&amp;height=600&amp;hl=en&amp;q=24%20Harbour%20House%20Coldharbour%20Lane%20Rainham%20RM13%209YB%20United%20Kingdom+(Stafhold%20Health%20Care%20Limited)&amp;t=&amp;z=14&amp;ie=UTF8&amp;iwloc=B&amp;output=embed"><a href="https://www.gps.ie/">gps vehicle tracker</a></iframe></div>
                 </div>
             </div>
         </section>
@@ -186,8 +181,15 @@
                                         </div>
                                     </div>
 
+                                    <div class="col-xl-12">
+                                        <div class="form-group">sdfsf
+                                            <div class="g-recaptcha mt-4" data-sitekey={{config('services.recaptcha.key')}}></div>
+
+                                        sdfsf</div>
+                                    </div>
+
                                      <!-- Google Recaptcha -->
-        <div class="g-recaptcha mt-4" data-sitekey={{config('services.recaptcha.key')}}></div>
+
 
                                     <div class="col-xl-12">
                                         <div class="button-box">

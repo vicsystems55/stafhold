@@ -64,7 +64,7 @@
         <script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
         <script src="{{asset('/')}}assets/js/html5shiv.js"></script>
     <![endif]-->
-    <scrip src="https://www.google.com/recaptcha/api.js">
+    <script async src="https://www.google.com/recaptcha/api.js"></script>
 
 </head>
 
@@ -137,7 +137,6 @@
 
     <!-- thm custom script -->
     <script src="{{asset('/')}}assets/js/custom.js"></script>
-
 
 
 </body>
