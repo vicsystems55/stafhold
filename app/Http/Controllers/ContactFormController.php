@@ -51,7 +51,7 @@ class ContactFormController extends Controller
 
             Mail::to('victorasuquob@gmail.com')->send(new ContactFormMail($data));
 
-            // Mail::to('kay@stafhold.com')->send(new ContactFormMail($data));
+            Mail::to('kay@stafhold.com')->send(new ContactFormMail($data));
 
 
             // THANKS FOR WATCHING
