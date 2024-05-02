@@ -140,7 +140,7 @@
                                                 <span class="icon-pin-1"></span>
                                             </div>
                                             <div class="text">
-                                                <p>25 Harbour House,
+                                                <p>5 Harbour House,
                                                     Coldharbour Lane
                                                     RM13 9YB
                                                     United Kingdom</p>
