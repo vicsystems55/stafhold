@@ -312,7 +312,7 @@
                                             <h2>Train to become a sterile technician within the NHS </h2>
                                         </div>
                                         <div class="text-white">
-                                            <p class="h5 text-warning">Crash course of 2 weekends- practicals and theory</p>
+                                            <p class="h5 text-warning">Crash course of 3 weekends- practicals and theory</p>
                                             <p class="h5">Do you want to build a career in a fast paced ever growing field in healthcare industry?</p>
                                         <p class="h5">Do you want to make a difference in peoples life?.</p>
                                         <p class="h5 text-warning">Then you should explore to learn and train of becoming a sterile technician</p>

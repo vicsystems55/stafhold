@@ -140,11 +140,9 @@
                                                 <span class="icon-pin-1"></span>
                                             </div>
                                             <div class="text">
-                                                <p>24 Harbour House
-                                                    Coldharbour Lane
-                                                    Rainham
-                                                    RM13 9YB
-
+                                                <p>25 Harbour House,
+                                                    Coldharbour Lane
+                                                    RM13 9YB
                                                     United Kingdom</p>
                                             </div>
                                         </div>

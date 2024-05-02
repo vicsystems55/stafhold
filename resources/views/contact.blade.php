@@ -95,10 +95,9 @@
 
                                         <div class="text">
                                             <p>Visit our location</p>
-                                            <h4>24 Harbour House
-                                                Coldharbour Lane
-                                                Rainham
-                                                RM13 9YB
+                                            <h4>5 Harbour House,
+                                                Coldharbour Lane
+                                                RM13 9YB
 
                                                 United Kingdom</h4>
                                         </div>
