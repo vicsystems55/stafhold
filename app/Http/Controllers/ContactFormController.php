@@ -51,14 +51,16 @@ class ContactFormController extends Controller
 
             Mail::to('victorasuquob@gmail.com')->send(new ContactFormMail($data));
 
-            Mail::to('kay@stafhold.com')->send(new ContactFormMail($data));
-
+            Mail::to('admin@stafhold.com')
+            ->cc('isaiah_olaobaju@stafhold.com')
+            ->send(new ContactFormMail($data));
 
             // THANKS FOR WATCHING
 
             return back()->with('msg', 'Thanks for reaching out. Your message has been sent successfully.');
 
         } else {
+
             return redirect()->back()->with('status', 'Please Complete the Recaptcha Again to proceed');
         }
 
