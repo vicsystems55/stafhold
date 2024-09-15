@@ -19,7 +19,7 @@
                             </div>
 
                             <div class="title" data-aos="fade-up" data-aos-easing="linear" data-aos-duration="1500">
-                                <h2>Admin Page</h2>
+                                <h2>Admin Page.</h2>
                             </div>
 
                         </div>
